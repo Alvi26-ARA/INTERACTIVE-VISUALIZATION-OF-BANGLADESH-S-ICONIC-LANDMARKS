@@ -249,16 +249,6 @@ INTERACTIVE VISUALIZATION OF BANGLADESH'S ICONIC LANDMARKS/
 
 ---
 
-## 👥 Project Team
-
-| Student | ID | Main Scene / Contribution |
-|---|---|---|
-| **Ananta Saha Pranta** | `23-52436-2` | National Martyrs' Memorial |
-| **Abdur Rahman Alvi** | `23-52442-2` | Shaheed Minar |
-| **Fabiha Tahsin** | `24-56556-1` | Hatirjheel Bridge |
-| **Mahim Hossain** | `24-56577-1` | Bangladesh Parliament |
-| **Abdullah Siam** | `23-54131-3` | Baitul Mukarram |
-
 ---
 
 ## 🎓 Academic Information
@@ -270,9 +260,6 @@ INTERACTIVE VISUALIZATION OF BANGLADESH'S ICONIC LANDMARKS/
 | **Department** | Computer Science and Engineering |
 | **Course** | Computer Graphics |
 | **Course Code** | CSC4118 |
-| **Section** | H |
-| **Semester** | Summer 2025-26 |
-| **Group** | 01 |
 | **Supervisor** | Mahfujur Rahman |
 
 ---
